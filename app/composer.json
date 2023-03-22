@@ -1,0 +1,11 @@
+{
+  "require": {
+    "elasticsearch/elasticsearch": "^8.6",
+    "fakerphp/faker": "^1.21"
+  },
+  "config": {
+    "allow-plugins": {
+      "php-http/discovery": true
+    }
+  }
+}
